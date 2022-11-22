@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BackEndDmN20222">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/BackEndDmN20222.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

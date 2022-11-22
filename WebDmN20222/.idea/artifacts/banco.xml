@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="banco">
+    <output-path>$PROJECT_DIR$/out/artifacts/banco</output-path>
+    <root id="archive" name="banco.war" />
+  </artifact>
+</component>
